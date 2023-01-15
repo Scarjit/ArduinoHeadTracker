@@ -1,0 +1,3 @@
+[submodule "mpu6050-tracker-cpp/src/MPU6050_light"]
+	path = mpu6050-tracker-cpp/src/MPU6050_light
+	url = https://github.com/rfetick/MPU6050_light.git

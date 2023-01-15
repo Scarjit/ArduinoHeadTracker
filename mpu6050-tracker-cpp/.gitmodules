@@ -1,0 +1,15 @@
+[submodule "src/ArduinoJson"]
+	path = src/ArduinoJson
+	url = https://github.com/bblanchon/ArduinoJson.git
+[submodule "include/MPU6050_light"]
+	path = include/MPU6050_light
+	url = https://github.com/rfetick/MPU6050_light.git
+[submodule "lib/MPU6050_light"]
+	path = lib/MPU6050_light
+	url = https://github.com/rfetick/MPU6050_light.git
+[submodule "src/--force"]
+	path = src/--force
+	url = https://github.com/rfetick/MPU6050_light.git
+[submodule "src/MPU6050_light"]
+	path = src/MPU6050_light
+	url = https://github.com/rfetick/MPU6050_light.git
