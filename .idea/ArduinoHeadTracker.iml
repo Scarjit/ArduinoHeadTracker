@@ -2,7 +2,12 @@
 <module type="WEB_MODULE" version="4">
   <component name="Go" enabled="true" />
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/mpu6050_rs/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/mpu6050_rs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/mpu6050-tracker-cpp/.pio" />
+      <excludeFolder url="file://$MODULE_DIR$/mpu6050-tracker-cpp/cmake-build-uno" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

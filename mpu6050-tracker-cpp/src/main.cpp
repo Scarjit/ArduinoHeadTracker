@@ -43,10 +43,6 @@ void setup() {
     delay(1000);
     mpu.calcOffsets(true,true); // gyro and accelero
 
-    StaticJsonDocument<48> readyData;
-    readyData.createNestedObject("data");
-    readyData["status"] = "ready";
-    printSensorDataJson(readyData);
 }
 void loop() {
     mpu.update();
